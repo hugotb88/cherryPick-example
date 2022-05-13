@@ -6,6 +6,7 @@ public class ClassA {
         obj.baseMethod("Parameter One");
         System.out.println("Commit 1 feature_branchA");
         System.out.println("Commit 2 feature_branchA");
+        System.out.println("Commit 3 feature_branchA");
     }
 
 
