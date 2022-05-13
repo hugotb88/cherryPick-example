@@ -8,6 +8,7 @@ public class ClassA {
 
 
     public String baseMethod(String parameter1){
+        System.out.println("Commit M1 ");
         return parameter1 + " changed";
     }
 }
